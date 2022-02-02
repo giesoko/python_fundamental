@@ -11,4 +11,4 @@ count_books_read = 0
 for count_books_read in range(1, count_books + 1):
     print(f'Reading book number {count_books_read}')
     print(f'Book number {count_books_read} has been read')
-print(f'Number of books read {count_books_read}')
+print(f'Total number of books have been read = {count_books_read}')
