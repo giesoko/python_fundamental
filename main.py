@@ -13,6 +13,7 @@ print('and started shopping')
 
 # branching
 milk_bottle_count = int(input("Enter count of milk available in the shop: "))
+print(f'There are {milk_bottle_count} bottles of milk available')
 
 if milk_bottle_count > 0:
     Egg_avail = input("Did the shop have eggs? Enter yes or no: ")
