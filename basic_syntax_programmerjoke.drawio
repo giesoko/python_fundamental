@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T04:44:41.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="aI59Nmis9XUAi4KmDgYO" version="16.5.2" type="github"><diagram id="SD_iFu3qORgAoiSonplT" name="Page-1">5VtLd5s4FP41LNMDksGwrJN0enrazpx60clSgAK0gFwhYju/fiQQL8sPOo4jGi/sY10QQvd+n+5DsgFvs81fFK3iLyTEqQHMcGPAOwMAb+bwbyHY1gKnEUQ0CWuR1QmWyTOWQlNKyyTExeBGRkjKktVQGJA8xwEbyBClZD287ZGkw1FXKMKKYBmgVJV+T0IW11IXzDv5R5xEcTOy5Xj1lQw1N8uZFDEKybongvcGvKWEsPpXtrnFqdBdo5e634cDV9sXozhnYzrgH5/CG+tmDp+XjH77+JUG34obW74b2zYTxiGfv2wSymISkRyl9510QUmZh1g81eSt7p7PhKy40OLCH5ixrTQmKhnhophlqbyKNwn7V3R/Z8vWQ+/K3UY+uWpsm0bO6LbXSTQf+te6blWr6VfPT0zqoNoaWCEaYXZEV7PWaBzsmGSYj8P7UZwiljwNn48k7KL2vrbrPyThIwNTMgTMJD4kQVxz+ISClDTAslNnXv6j9xadqDL6bwAA1KM9obSUM7jPQwUUncmFldZxwvByhQJxdc1pPzQv8guSlgy/p4GEQCVtW9DlzYJR8rOlFGgt9YQpw5vjtlJt0OjSHOrSMhvyrXvclaK4R1toHjbbQOO/q965Dn6Nx3wNrlOYH8EN50xunKXkmYLhLyQTvgPxkfl4Of8iNMTUAHwAJ+UTWfi84USs0pbzqxSL8GJRindG/OMTxlLRlzyKpTxJf3Z3HSGHeZocL4Byy91B+R6Qt7I+yp1LodzT4kUu7hFOssMZyQ5XJzschR2LMkwqXhRrTLkJBCvMDuB/Txns7VKtDeyWpSjlOtDujkS7Ze636OvA3T0E9zWuwi6uWP4V4yoi58qfGsDhTDvAoV6AD+Ddof3yAG9yztMIP3dB358KwPkQCjPXHj6ifrGL5QKW6ioeeO69Dwyfkc/z/GHYnyZRzn8HXO881IILQYuEZ9Lv5YUsCcMaK7hInpFfPU+YcCUmVE3RXhj23TFeyTRfdjba5Lpv7iOgPsjCG/MdGNKwbv1fiza3kMfHAl/GWHpSd/1uaDxLz03Yz1tF5wqZvpI3wiX7JJfcydPHVMzznY/ahAZ1ymeiJ5SktYI+qJFCTDK/LF4nSvB2XMO+KMHcEyV4l4oSgHOt68/Ymgg4QJNXWn/UqogMhEPeD5g5EUTzq5JHH/MTC4dtV3c4DLTkey8J2LGJG9CauAEVsG/FYZ7APHeYTTQnUd+U5afrP5sAeUSucAUuYSzD4GX2kGZwZ9Gc7yyGl04c1aLLXeVkuGMR04vrQjyOokJ3IAXdyQVSrhbWnLMHaxm6SjRgbPJ3dvC1n2kOGMLH3d05vDDTgJq2yKjOJ6XA6uH9K82Bne0MNeeYtu7ATsvm7J9KPKCXeLsu7tWJB04Sz2mJV0yKebtl5bn2LbTmBa4uUAT2WBZ5Z7LovJXRPgR2uYnmo0CUx3jchrXDe7di4Jra4Q2uFd7eWHhrRbenoHtJxBkheV6oroZFlASYJtVa3tszzsTJookh3rO0I16tBiw5CNgRVf1RBwltzccIoebNPm1hJxxdbNdau4Rvd7MPntzss+bD4qUccbq1S6hl60oLK7Q6Wqg62jdzngQeOPHc0aJB2YR5oO649PfAu83vdj/cAA7KhJeuT06LLjztnVhJ1/b2hEMvVNLlze4fO7Udur89wfv/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:02:38.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1KOkZdzboAgXUs_TMxq7" version="16.5.2" type="github">
+  <diagram id="SD_iFu3qORgAoiSonplT" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ejJd-1-73zStrRHNrcRs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ejJd-1-73zStrRHNrcRs-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-2" value="End" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=38;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1020" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ejJd-1-73zStrRHNrcRs-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-4" value="Mom gave an order,&lt;br&gt;&quot;Buy a bottle of milk&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ejJd-1-73zStrRHNrcRs-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-8" target="ejJd-1-73zStrRHNrcRs-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-8" value="She went to a shop nearby" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-10" target="ejJd-1-73zStrRHNrcRs-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ejJd-1-73zStrRHNrcRs-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-10" target="ejJd-1-73zStrRHNrcRs-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ejJd-1-73zStrRHNrcRs-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-10" value="Was the milk available?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-14" target="ejJd-1-73zStrRHNrcRs-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-14" value="Budi did not buy the milk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ejJd-1-73zStrRHNrcRs-18" target="ejJd-1-73zStrRHNrcRs-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ejJd-1-73zStrRHNrcRs-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-23" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-18" target="ejJd-1-73zStrRHNrcRs-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-18" value="Did they have eggs?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-20" target="ejJd-1-73zStrRHNrcRs-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-20" value="Budi bought a bottle of milk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-22" target="ejJd-1-73zStrRHNrcRs-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-22" value="Budi bought 6 bottles of milk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-25" target="ejJd-1-73zStrRHNrcRs-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-25" value="Budi went back home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-29" target="ejJd-1-73zStrRHNrcRs-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-29" value="Son gave the groceries to the mom" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-33" value="Start" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=38;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ejJd-1-73zStrRHNrcRs-34" target="ejJd-1-73zStrRHNrcRs-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-37" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ejJd-1-73zStrRHNrcRs-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ejJd-1-73zStrRHNrcRs-34" target="ejJd-1-73zStrRHNrcRs-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-39" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ejJd-1-73zStrRHNrcRs-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejJd-1-73zStrRHNrcRs-34" value="Was the available milk &amp;gt;= 6?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="590" width="100" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
